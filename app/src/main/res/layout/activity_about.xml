@@ -1,0 +1,165 @@
+<?xml version="1.0" encoding="utf-8"?>
+<LinearLayout xmlns:android="http://schemas.android.com/apk/res/android"
+    xmlns:app="http://schemas.android.com/apk/res-auto"
+    xmlns:tools="http://schemas.android.com/tools"
+    android:layout_width="match_parent"
+    android:layout_height="match_parent"
+    android:orientation="vertical"
+    android:background="@drawable/back3"
+
+    tools:context=".about">
+
+    <LinearLayout
+        android:layout_width="match_parent"
+        android:layout_height="wrap_content"
+        android:orientation="vertical"
+        android:background="@drawable/back2"
+android:layout_marginLeft="20dp"
+        android:layout_marginRight="20dp"
+        android:layout_marginTop="40dp"
+        >
+
+
+    <TextView
+android:layout_marginTop="20dp"
+        android:layout_width="match_parent"
+        android:layout_height="wrap_content"
+        android:text="Sir : Virendra N. Patel"
+        android:textColor="#fff"
+        android:textSize="30sp"
+        android:gravity="center"
+
+        />
+
+    <TextView
+        android:textColor="#fff"
+
+        android:layout_width="match_parent"
+        android:layout_height="wrap_content"
+        android:text="Maths teacher at Chhamichha,"
+        android:textSize="20sp"
+        android:gravity="center"
+
+        />
+    <TextView
+        android:layout_marginLeft="90dp"
+        android:layout_width="wrap_content"
+        android:layout_height="wrap_content"
+        android:text="Ta : Chanasma,"
+        android:textSize="20sp"
+        android:gravity="center"
+        android:textColor="#fff"
+
+
+        />
+    <TextView
+        android:layout_marginLeft="90dp"
+
+        android:layout_width="wrap_content"
+        android:layout_height="wrap_content"
+        android:text="Di : Patan,"
+        android:textColor="#fff"
+        android:textSize="20sp"
+        android:gravity="center"
+
+        />
+    <TextView
+        android:layout_marginLeft="90dp"
+
+        android:layout_width="wrap_content"
+        android:layout_height="wrap_content"
+        android:text="State : Gujarat "
+        android:textColor="#fff"
+        android:textSize="20sp"
+        android:gravity="right"
+
+        />
+
+    <TextView
+        android:layout_marginLeft="90dp"
+
+        android:layout_width="wrap_content"
+        android:layout_height="wrap_content"
+        android:text="Lives in Mehsana(Gujarat)"
+        android:textColor="#fff"
+        android:textSize="20sp"
+        android:gravity="right"
+
+        />
+        <TextView
+            android:layout_marginLeft="90dp"
+
+            android:layout_width="wrap_content"
+            android:layout_height="wrap_content"
+            android:textColor="#fff"
+            android:textSize="20sp"
+            android:gravity="right"
+
+            />
+
+
+
+    </LinearLayout>
+
+    <LinearLayout
+        android:layout_width="match_parent"
+        android:layout_height="wrap_content"
+        android:orientation="vertical"
+        android:background="@drawable/back2"
+        android:layout_marginLeft="20dp"
+        android:layout_marginRight="20dp"
+        android:layout_marginTop="40dp"
+        >
+        <TextView
+            android:layout_marginLeft="90dp"
+
+            android:layout_width="wrap_content"
+            android:layout_height="wrap_content"
+            android:textColor="#fff"
+            android:textSize="20sp"
+            android:gravity="right"
+
+            />
+
+
+
+        <TextView
+          android:layout_width="match_parent"
+          android:layout_height="wrap_content"
+
+          android:text="Handcrafted By "
+          android:textColor="#fff"
+          android:textSize="30sp"
+          android:gravity="center"
+
+
+          />
+        <TextView
+            android:layout_width="match_parent"
+            android:layout_height="wrap_content"
+
+            android:text="Meet D. Patel"
+            android:textColor="#fff"
+            android:textSize="30sp"
+            android:gravity="center"
+
+
+            />
+
+        <TextView
+            android:layout_marginLeft="90dp"
+
+            android:layout_width="wrap_content"
+            android:layout_height="wrap_content"
+            android:textColor="#fff"
+            android:textSize="20sp"
+            android:gravity="right"
+
+            />
+
+
+
+    </LinearLayout>
+
+
+</LinearLayout>

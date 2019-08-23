@@ -1,0 +1,50 @@
+<?xml version="1.0" encoding="utf-8"?>
+<RelativeLayout xmlns:android="http://schemas.android.com/apk/res/android"
+    xmlns:app="http://schemas.android.com/apk/res-auto"
+    xmlns:tools="http://schemas.android.com/tools"
+    android:layout_width="match_parent"
+    android:layout_height="match_parent"
+    tools:context=".MainActivity"
+    android:background="@drawable/back1"
+    android:gravity="center"
+
+    >
+
+    <TextView
+        android:id="@+id/t1"
+        android:textColor="#fff"
+        android:layout_width="match_parent"
+        android:layout_height="wrap_content"
+        android:text="MATHS &amp; SCIENCE"
+        android:textSize="40sp"
+        android:gravity="center"
+
+       />
+    <TextView
+        android:id="@+id/t2"
+        android:layout_marginTop="60dp"
+        android:textColor="#fff"
+        android:layout_width="match_parent"
+        android:layout_height="wrap_content"
+        android:text=" STD 9 AND 10"
+        android:textSize="40sp"
+android:gravity="center"
+
+        />
+
+    <TextView
+        android:gravity="right"
+        android:layout_marginTop="150dp"
+        android:layout_below="@+id/t2"
+        android:textColor="#fff"
+        android:layout_width="match_parent"
+        android:layout_height="wrap_content"
+        android:text="~VIRENDRA N PATEL"
+        android:textSize="30sp"
+
+
+
+        />
+
+
+</RelativeLayout>

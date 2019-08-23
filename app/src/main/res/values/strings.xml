@@ -1,0 +1,138 @@
+<resources>
+    <string name="app_name">NCERT MATHS STD-9&amp;10</string>
+
+    <string name="q1">કોષ શબ્દ કોણે આપ્યો ?</string>
+    <string name="q2">કઈ અંગિકા કોષનું પાવરહાઉસ છે ?</string>
+    <string name="q3">આત્મઘાતી કોથળી કઈ અંગીકા છે ?</string>
+    <string name="q4">કોષની અંગિકા ફક્ત વનસ્પતિમાં જોવા મળે છે ?</string>
+    <string name="q5">કોષની કઈ અંગિકા પ્રોટીન સંશ્લેષણમાં અગત્યનો ભાગ ભજવે છે ?</string>
+    <string name="q6">રંગસૂત્રો ક્યાં આવેલાં હોય છે ?</string>
+    <string name="q7">નીચેના પૈકી કયો કોષ પોતાનો આકાર બદલી શકે છે ?</string>
+    <string name="q8">સંરચનાકીય, આવરિત પટલીય કોથળીઓજેવી રચના કઈ છે ?</string>
+
+    <string name="a1">6g હાઇડ્રોજનનું અધિક ઓક્સિજનની હાજરીમાં દહન થાય છે, તો ઉત્પન્ન થતા પાણીનું દળ ...... </string>
+    <string name="a2">નીચે પૈકી કઈ માહિતી સમતોલિત રાસાયણિક સમીકરણ દ્વારા મળતી નથી ?</string>
+    <string name="a3">સૂકી કસનળીમાં લેડ નાઈટ્રેટના સ્ફટિકને ખૂબજ ગરમ કરતાં ....</string>
+    <string name="a4">Zn ના સળીયાને કોપર નાઈટ્રેટનાં દ્રાવણમાં મૂકી અવલોકન કરતા ...</string>
+    <string name="a5">મંદ HCl ને Zn ના ટુકડા રાખેલી કસનળીમાં ઉમેરતાં ...</string>
+    <string name="a6">અખાધ્યાત્મકતાને અટકાવવા માટે શું કરી શકાય ?</string>
+    <string name="a7">CO2 અને H2O બંને વાયુઓ ...</string>
+    <string name="a8">લાલ – કથ્થાઈ રંગની કોપર ધાતુને ગરમ કરતાં કાળી ઘન સપાટી મળે છે. નીચે પૈકી કયું વિધાન અસત્ય છે ?</string>
+    <string name="a9">સિલ્વર ક્લોરાઈડને ઘેરા રંગની બોટલમાં સંઘરવામાં આવે છે, કારણ કે ...</string>
+    <string name="a10">H2 વાયુની O2 વાયુ સાથેની પ્રક્રિયાથી પાણી પ્રાપ્ત થાય છે, આ પ્રક્રિયા નીચે પૈકી શાનું ઉદાહરણ  છે?</string>
+
+
+
+
+
+    <string name="q1a">રોબર્ટ હૂકે</string>
+    <string name="q1b"> રોબર્ટ બ્રાઉને</string>
+    <string name="q1c">ફ્લેમિંગે</string>
+    <string name="q1d">વોટ્સન અને ક્રિકે</string>
+
+    <string name="q2a">કોષકેન્દ્ર	</string>
+    <string name="q2b">કણાભસૂત્ર</string>
+    <string name="q2c">ગોલ્ગીપ્રસાધન</string>
+    <string name="q2d">રંજક દ્રવ્યકણ</string>
+
+    <string name="q3a"> સેન્ટ્રોઝોમ</string>
+    <string name="q3b">મેસોઝોમ</string>
+    <string name="q3c">લાયાસોઝોમ</string>
+    <string name="q3d"> ક્રોમોઝોમ</string>
+
+    <string name="q4a">કણાભસૂત્ર</string>
+    <string name="q4b">કોષકેન્દ્ર</string>
+    <string name="q4c">હરીતકણ	</string>
+    <string name="q4d">રિબોઝોમ</string>
+
+
+    <string name="q5a">રિબોઝોમ</string>
+    <string name="q5b">કણાભસૂત્ર</string>
+    <string name="q5c">ગોલ્ગીપ્રસાધન</string>
+    <string name="q5d">લાયાસોઝોમ</string>
+
+
+    <string name="q6a">કણાભસૂત્રમાં</string>
+    <string name="q6b"> કોષકેન્દ્રમાં</string>
+    <string name="q6c">કોષદીવાલમાં</string>
+    <string name="q6d"> રિબોઝોમમાં</string>
+
+
+    <string name="q7a">અમીબા	</string>
+    <string name="q7b">બેક્ટેરિયા</string>
+    <string name="q7c">પેરામીશિયમ</string>
+    <string name="q7d"> ક્લેમિડોમોનાસ</string>
+
+
+    <string name="q8a">કણાભસૂત્ર</string>
+    <string name="q8b">કોષકેન્દ્ર	</string>
+    <string name="q8c">રંજકકણ</string>
+    <string name="q8d">લાયાસોઝોમ</string>
+
+
+
+    <string name="a1a">54g</string>
+    <string name="a1b"> 108g</string>
+    <string name="a1c">36g</string>
+    <string name="a1d">18g</string>
+
+
+    <string name="a2a">પ્રક્રિયકો અને નીપજોની ભૌતિક અવસ્થા	</string>
+    <string name="a2b">જે-તે પ્રક્રિયામાં સંકળાયેલા તમામ પદાર્થોની સંજ્ઞા અને રાસાયણિક સૂત્રો</string>
+    <string name="a2c">પ્રક્રિયકો અને બનતી નીપજોના પરમાણુ / અણુઓની સંખ્યા</string>
+    <string name="a2d"> જે – તે પ્રક્રિયા વાસ્તવિક રીતે શક્ય છે કે નહીં</string>
+
+
+    <string name="a3a"> સ્ફટિકતુરંત પીગળે છે.</string>
+    <string name="a3b"> કથ્થાઈ રંગની બાષ્પ મળે છે.</string>
+    <string name="a3c">કસનળીમાં સફેદ ધુમાડો ઉદભવે છે.</string>
+    <string name="a3d">  પીળા અવક્ષેપ મળે છે.</string>
+
+
+
+    <string name="a4a">Zn પર Cu જમા થાય છે.</string>
+    <string name="a4b">Cu પર Zn જમા થાય છે.</string>
+    <string name="a4c">Cu2+ નું ઓક્સિડેશન થાય છે.</string>
+    <string name="a4d"> દ્રાવણનો વાદળી રંગ ઘાટો બને છે.</string>
+
+
+    <string name="a5a">ધાતુની સપાટી ચમક્વાળી બને છે.</string>
+    <string name="a5b"> પ્રક્રિયા મિશ્રણ દૂધિયું બને છે.</string>
+    <string name="a5c">વાયુની ખરાબ વાસ અનુભવાય છે.</string>
+    <string name="a5d"> રંગવિહીન તેમજ ગંધવિહીન વાયુ ઉત્પન્ન થાય છે.</string>
+
+
+
+    <string name="a6a"> એન્ટી – ઓક્સિડન્ટ ઉમેરવા પડે.</string>
+    <string name="a6b"> ખોરાક ને ફ્રીઝમાં રાખવો પડે.</string>
+    <string name="a6c">ખોરાકને પ્રકાશની અસરથી બચાવવો પડે.</string>
+    <string name="a6d">  આપેલ તમામ</string>
+
+
+
+    <string name="a7a"> હવા કરતાં ભારે છે.		</string>
+    <string name="a7b">રંગવિહીન છે.</string>
+    <string name="a7c">પાણીમાં દ્રાવ્ય છે.</string>
+    <string name="a7d"> એસિડીક સ્વભાવ ધરાવે છે.</string>
+
+
+    <string name="a8a">કાળો ઘન પદાર્થ CuO છે.</string>
+    <string name="a8b"> આ રેડોક્ષ પ્રક્રિયા છે.	</string>
+    <string name="a8c">આ અવક્ષેપન પ્રક્રિયા છે.</string>
+    <string name="a8d"> કોપરનું ઓક્સિડેશન થાય છે.</string>
+
+   <string name="a9a"> તે સફેદ ઘન પદાર્થ છે.	</string>
+    <string name="a9b">તે રેડોક્ષ પ્રક્રિયા આપે છે.</string>
+    <string name="a9c">તેને સૂર્યપ્રકાશની અસરથી બચાવી શકાય.</string>
+    <string name="a9d"> આપેલ પૈકી એક પણ નહિ.</string>
+
+
+
+    <string name="a10a">સયોગીકરણ પ્રક્રિયા </string>
+    <string name="a10b">રેડોક્ષ પ્રક્રિયા	</string>
+    <string name="a10c">ઉષ્માક્ષેપક પ્રક્રિયા </string>
+    <string name="a10d"> આપેલી બધીજ પ્રક્રિયાઓ.</string>
+
+
+
+</resources>

@@ -1,0 +1,78 @@
+<?xml version="1.0" encoding="utf-8"?>
+<LinearLayout xmlns:android="http://schemas.android.com/apk/res/android"
+    xmlns:app="http://schemas.android.com/apk/res-auto"
+    xmlns:tools="http://schemas.android.com/tools"
+    android:layout_width="match_parent"
+    android:layout_height="match_parent"
+    android:background="@drawable/back1"
+    android:orientation="vertical"
+    tools:context=".setting"
+    android:gravity="center"
+    >
+
+
+    <Button
+        android:padding="8dp"
+android:layout_margin="10dp"
+        android:layout_width="match_parent"
+        android:layout_height="wrap_content"
+        android:text="Share"
+        android:textColor="#000"
+        android:textSize="30sp"
+        android:gravity="center"
+        android:elevation="10dp"
+        android:background="@drawable/back"
+        android:drawableLeft="@drawable/ic_share_black_24dp"
+        android:drawableRight="@drawable/ic_keyboard_arrow_right_black_24dp"
+        />
+
+    <Button
+        android:padding="8dp"
+        android:layout_margin="10dp"
+        android:layout_width="match_parent"
+        android:layout_height="wrap_content"
+        android:text="Rate"
+        android:textColor="#000"
+        android:textSize="30sp"
+        android:gravity="center"
+        android:elevation="10dp"
+        android:background="@drawable/back"
+        android:drawableLeft="@drawable/ic_star_black_24dp"
+        android:drawableRight="@drawable/ic_keyboard_arrow_right_black_24dp"
+        />
+
+      <LinearLayout android:layout_height="wrap_content"
+          android:layout_width="match_parent"
+          android:orientation="vertical"
+          android:background="@drawable/back"
+android:layout_margin="10dp"
+          >
+          <TextView
+              android:layout_width="match_parent"
+              android:layout_height="wrap_content"
+              android:text="Handcrafted By"
+              android:textColor="#000"
+              android:textSize="30sp"
+              android:gravity="center"
+              android:elevation="10dp"
+
+
+              />
+          <TextView
+              android:padding="10dp"
+              android:drawableLeft="@drawable/ic_person_outline_black_24dp"
+              android:layout_width="match_parent"
+              android:layout_height="wrap_content"
+              android:text="MEET PATEL"
+              android:textColor="#000"
+              android:textSize="35sp"
+              android:gravity="center"
+              android:elevation="10dp"
+
+
+              />
+
+
+      </LinearLayout>
+
+</LinearLayout>
