@@ -1,7 +1,11 @@
 <resources>
     <string name="app_name">NCERT MATHS STD-9&amp;10</string>
-  <string name="meet">meet</string>
+    <string name="meet">meet</string>
     <string name="deepak">deepak</string>
+
+    <string name="Android_Studio">Android_Studio</string>
+
+
     <string name="q1">કોષ શબ્દ કોણે આપ્યો ?</string>
     <string name="q2">કઈ અંગિકા કોષનું પાવરહાઉસ છે ?</string>
     <string name="q3">આત્મઘાતી કોથળી કઈ અંગીકા છે ?</string>
@@ -21,9 +25,6 @@
     <string name="a8">લાલ – કથ્થાઈ રંગની કોપર ધાતુને ગરમ કરતાં કાળી ઘન સપાટી મળે છે. નીચે પૈકી કયું વિધાન અસત્ય છે ?</string>
     <string name="a9">સિલ્વર ક્લોરાઈડને ઘેરા રંગની બોટલમાં સંઘરવામાં આવે છે, કારણ કે ...</string>
     <string name="a10">H2 વાયુની O2 વાયુ સાથેની પ્રક્રિયાથી પાણી પ્રાપ્ત થાય છે, આ પ્રક્રિયા નીચે પૈકી શાનું ઉદાહરણ  છે?</string>
-
-
-
 
 
     <string name="q1a">રોબર્ટ હૂકે</string>
@@ -71,7 +72,6 @@
     <string name="q8d">લાયાસોઝોમ</string>
 
 
-
     <string name="a1a">54g</string>
     <string name="a1b"> 108g</string>
     <string name="a1c">36g</string>
@@ -90,7 +90,6 @@
     <string name="a3d">  પીળા અવક્ષેપ મળે છે.</string>
 
 
-
     <string name="a4a">Zn પર Cu જમા થાય છે.</string>
     <string name="a4b">Cu પર Zn જમા થાય છે.</string>
     <string name="a4c">Cu2+ નું ઓક્સિડેશન થાય છે.</string>
@@ -103,12 +102,10 @@
     <string name="a5d"> રંગવિહીન તેમજ ગંધવિહીન વાયુ ઉત્પન્ન થાય છે.</string>
 
 
-
     <string name="a6a"> એન્ટી – ઓક્સિડન્ટ ઉમેરવા પડે.</string>
     <string name="a6b"> ખોરાક ને ફ્રીઝમાં રાખવો પડે.</string>
     <string name="a6c">ખોરાકને પ્રકાશની અસરથી બચાવવો પડે.</string>
     <string name="a6d">  આપેલ તમામ</string>
-
 
 
     <string name="a7a"> હવા કરતાં ભારે છે.		</string>
@@ -122,18 +119,16 @@
     <string name="a8c">આ અવક્ષેપન પ્રક્રિયા છે.</string>
     <string name="a8d"> કોપરનું ઓક્સિડેશન થાય છે.</string>
 
-   <string name="a9a"> તે સફેદ ઘન પદાર્થ છે.	</string>
+    <string name="a9a"> તે સફેદ ઘન પદાર્થ છે.	</string>
     <string name="a9b">તે રેડોક્ષ પ્રક્રિયા આપે છે.</string>
     <string name="a9c">તેને સૂર્યપ્રકાશની અસરથી બચાવી શકાય.</string>
     <string name="a9d"> આપેલ પૈકી એક પણ નહિ.</string>
-
 
 
     <string name="a10a">સયોગીકરણ પ્રક્રિયા </string>
     <string name="a10b">રેડોક્ષ પ્રક્રિયા	</string>
     <string name="a10c">ઉષ્માક્ષેપક પ્રક્રિયા </string>
     <string name="a10d"> આપેલી બધીજ પ્રક્રિયાઓ.</string>
-
 
 
 </resources>
