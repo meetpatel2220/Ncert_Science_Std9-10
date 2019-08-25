@@ -17,7 +17,7 @@
             android:layout_height="wrap_content"
             android:layout_marginTop="20dp"
             android:gravity="center"
-            android:text="સજીવનો પાયાનો એકમ"
+            android:text="આપણું પર્યાવરણ"
             android:textColor="#fff"
             android:textSize="30sp"
 
@@ -54,7 +54,7 @@
                     android:layout_width="wrap_content"
                     android:layout_height="wrap_content"
                     android:layout_marginLeft="10dp"
-                    android:text="@string/q1"
+                    android:text="@string/b1"
                     android:textColor="#000"
                     android:textSize="25sp" />
 
@@ -71,7 +71,7 @@
                 android:paddingLeft="10dp"
                 android:paddingRight="10dp"
 
-                android:text="@string/q1a" />
+                android:text="@string/b1a" />
 
             <Button
                 android:id="@+id/b1b"
@@ -85,7 +85,7 @@
                 android:background="@drawable/back5"
                 android:paddingLeft="10dp"
                 android:paddingRight="10dp"
-                android:text="@string/q1b"
+                android:text="@string/b1b"
 
                 />
 
@@ -100,7 +100,7 @@
                 android:background="@drawable/back5"
                 android:paddingLeft="10dp"
                 android:paddingRight="10dp"
-                android:text="@string/q1c"
+                android:text="@string/b1c"
 
                 />
 
@@ -115,7 +115,7 @@
                 android:background="@drawable/back5"
                 android:paddingLeft="10dp"
                 android:paddingRight="10dp"
-                android:text="@string/q1d"
+                android:text="@string/b1d"
 
                 />
 
@@ -158,7 +158,7 @@
                     android:layout_width="wrap_content"
                     android:layout_height="wrap_content"
                     android:layout_marginLeft="10dp"
-                    android:text="@string/q2"
+                    android:text="@string/b2"
                     android:textColor="#000"
                     android:textSize="25sp" />
 
@@ -176,7 +176,7 @@
                 android:paddingLeft="10dp"
                 android:paddingRight="10dp"
 
-                android:text="@string/q2a" />
+                android:text="@string/b2a" />
 
             <Button
                 android:id="@+id/b2b"
@@ -190,7 +190,7 @@
                 android:background="@drawable/back5"
                 android:paddingLeft="10dp"
                 android:paddingRight="10dp"
-                android:text="@string/q2b"
+                android:text="@string/b2b"
 
                 />
 
@@ -205,7 +205,7 @@
                 android:background="@drawable/back5"
                 android:paddingLeft="10dp"
                 android:paddingRight="10dp"
-                android:text="@string/q2c"
+                android:text="@string/b2c"
 
                 />
 
@@ -220,7 +220,7 @@
                 android:background="@drawable/back5"
                 android:paddingLeft="10dp"
                 android:paddingRight="10dp"
-                android:text="@string/q2d"
+                android:text="@string/b2d"
 
                 />
 
@@ -263,7 +263,7 @@
                     android:layout_width="wrap_content"
                     android:layout_height="wrap_content"
                     android:layout_marginLeft="10dp"
-                    android:text="@string/q3"
+                    android:text="@string/b3"
                     android:textColor="#000"
                     android:textSize="25sp" />
 
@@ -281,7 +281,7 @@
                 android:paddingLeft="10dp"
                 android:paddingRight="10dp"
 
-                android:text="@string/q3a" />
+                android:text="@string/b3a" />
 
             <Button
                 android:id="@+id/b3b"
@@ -295,7 +295,7 @@
                 android:background="@drawable/back5"
                 android:paddingLeft="10dp"
                 android:paddingRight="10dp"
-                android:text="@string/q3b"
+                android:text="@string/b3b"
 
                 />
 
@@ -310,7 +310,7 @@
                 android:background="@drawable/back5"
                 android:paddingLeft="10dp"
                 android:paddingRight="10dp"
-                android:text="@string/q3c"
+                android:text="@string/b3c"
 
                 />
 
@@ -325,7 +325,7 @@
                 android:background="@drawable/back5"
                 android:paddingLeft="10dp"
                 android:paddingRight="10dp"
-                android:text="@string/q3d"
+                android:text="@string/b3d"
 
                 />
 
@@ -368,7 +368,7 @@
                     android:layout_width="wrap_content"
                     android:layout_height="wrap_content"
                     android:layout_marginLeft="10dp"
-                    android:text="@string/q4"
+                    android:text="@string/b4"
                     android:textColor="#000"
                     android:textSize="25sp" />
 
@@ -386,7 +386,7 @@
                 android:paddingLeft="10dp"
                 android:paddingRight="10dp"
 
-                android:text="@string/q4a" />
+                android:text="@string/b4a" />
 
             <Button
                 android:id="@+id/b4b"
@@ -400,7 +400,7 @@
                 android:background="@drawable/back5"
                 android:paddingLeft="10dp"
                 android:paddingRight="10dp"
-                android:text="@string/q4b"
+                android:text="@string/b4b"
 
                 />
 
@@ -415,7 +415,7 @@
                 android:background="@drawable/back5"
                 android:paddingLeft="10dp"
                 android:paddingRight="10dp"
-                android:text="@string/q4c"
+                android:text="@string/b4c"
 
                 />
 
@@ -430,7 +430,7 @@
                 android:background="@drawable/back5"
                 android:paddingLeft="10dp"
                 android:paddingRight="10dp"
-                android:text="@string/q4d"
+                android:text="@string/b4d"
 
                 />
 
@@ -473,7 +473,7 @@
                     android:layout_width="wrap_content"
                     android:layout_height="wrap_content"
                     android:layout_marginLeft="10dp"
-                    android:text="@string/q5"
+                    android:text="@string/b5"
                     android:textColor="#000"
                     android:textSize="25sp" />
 
@@ -491,7 +491,7 @@
                 android:paddingLeft="10dp"
                 android:paddingRight="10dp"
 
-                android:text="@string/q5a" />
+                android:text="@string/b5a" />
 
             <Button
                 android:id="@+id/b5b"
@@ -505,7 +505,7 @@
                 android:background="@drawable/back5"
                 android:paddingLeft="10dp"
                 android:paddingRight="10dp"
-                android:text="@string/q5b"
+                android:text="@string/b5b"
 
                 />
 
@@ -520,7 +520,7 @@
                 android:background="@drawable/back5"
                 android:paddingLeft="10dp"
                 android:paddingRight="10dp"
-                android:text="@string/q5c"
+                android:text="@string/b5c"
 
                 />
 
@@ -535,7 +535,7 @@
                 android:background="@drawable/back5"
                 android:paddingLeft="10dp"
                 android:paddingRight="10dp"
-                android:text="@string/q5d"
+                android:text="@string/b5d"
 
                 />
 
@@ -579,7 +579,7 @@
                     android:layout_width="wrap_content"
                     android:layout_height="wrap_content"
                     android:layout_marginLeft="10dp"
-                    android:text="@string/q6"
+                    android:text="@string/b6"
                     android:textColor="#000"
                     android:textSize="25sp" />
 
@@ -597,7 +597,7 @@
                 android:paddingLeft="10dp"
                 android:paddingRight="10dp"
 
-                android:text="@string/q6a" />
+                android:text="@string/b6a" />
 
             <Button
                 android:id="@+id/b6b"
@@ -611,7 +611,7 @@
                 android:background="@drawable/back5"
                 android:paddingLeft="10dp"
                 android:paddingRight="10dp"
-                android:text="@string/q6b"
+                android:text="@string/b6b"
 
                 />
 
@@ -626,7 +626,7 @@
                 android:background="@drawable/back5"
                 android:paddingLeft="10dp"
                 android:paddingRight="10dp"
-                android:text="@string/q6c"
+                android:text="@string/b6c"
 
                 />
 
@@ -641,7 +641,7 @@
                 android:background="@drawable/back5"
                 android:paddingLeft="10dp"
                 android:paddingRight="10dp"
-                android:text="@string/q6d"
+                android:text="@string/b6d"
 
                 />
 
@@ -684,7 +684,7 @@
                     android:layout_width="wrap_content"
                     android:layout_height="wrap_content"
                     android:layout_marginLeft="10dp"
-                    android:text="@string/q7"
+                    android:text="@string/b7"
                     android:textColor="#000"
                     android:textSize="25sp" />
 
@@ -702,7 +702,7 @@
                 android:paddingLeft="10dp"
                 android:paddingRight="10dp"
 
-                android:text="@string/q7a" />
+                android:text="@string/b7a" />
 
             <Button
                 android:id="@+id/b7b"
@@ -716,7 +716,7 @@
                 android:background="@drawable/back5"
                 android:paddingLeft="10dp"
                 android:paddingRight="10dp"
-                android:text="@string/q7b"
+                android:text="@string/b7b"
 
                 />
 
@@ -731,7 +731,7 @@
                 android:background="@drawable/back5"
                 android:paddingLeft="10dp"
                 android:paddingRight="10dp"
-                android:text="@string/q7c"
+                android:text="@string/b7c"
 
                 />
 
@@ -746,7 +746,7 @@
                 android:background="@drawable/back5"
                 android:paddingLeft="10dp"
                 android:paddingRight="10dp"
-                android:text="@string/q7d"
+                android:text="@string/b7d"
 
                 />
 
@@ -789,7 +789,7 @@
                     android:layout_width="wrap_content"
                     android:layout_height="wrap_content"
                     android:layout_marginLeft="10dp"
-                    android:text="@string/q8"
+                    android:text="@string/b8"
                     android:textColor="#000"
                     android:textSize="25sp" />
 
@@ -807,7 +807,7 @@
                 android:paddingLeft="10dp"
                 android:paddingRight="10dp"
 
-                android:text="@string/q8a" />
+                android:text="@string/b8a" />
 
             <Button
                 android:id="@+id/b8b"
@@ -821,7 +821,7 @@
                 android:background="@drawable/back5"
                 android:paddingLeft="10dp"
                 android:paddingRight="10dp"
-                android:text="@string/q8b"
+                android:text="@string/b8b"
 
                 />
 
@@ -836,7 +836,7 @@
                 android:background="@drawable/back5"
                 android:paddingLeft="10dp"
                 android:paddingRight="10dp"
-                android:text="@string/q8c"
+                android:text="@string/b8c"
 
                 />
 
@@ -851,7 +851,7 @@
                 android:background="@drawable/back5"
                 android:paddingLeft="10dp"
                 android:paddingRight="10dp"
-                android:text="@string/q8d"
+                android:text="@string/b8d"
 
                 />
 
@@ -894,7 +894,7 @@
                     android:layout_width="wrap_content"
                     android:layout_height="wrap_content"
                     android:layout_marginLeft="10dp"
-                    android:text="@string/q5"
+                    android:text="@string/b9"
                     android:textColor="#000"
                     android:textSize="25sp" />
 
@@ -912,7 +912,7 @@
                 android:paddingLeft="10dp"
                 android:paddingRight="10dp"
 
-                android:text="@string/q5a" />
+                android:text="@string/b9a" />
 
             <Button
                 android:id="@+id/b9b"
@@ -926,7 +926,7 @@
                 android:background="@drawable/back5"
                 android:paddingLeft="10dp"
                 android:paddingRight="10dp"
-                android:text="@string/q5b"
+                android:text="@string/b9b"
 
                 />
 
@@ -941,7 +941,7 @@
                 android:background="@drawable/back5"
                 android:paddingLeft="10dp"
                 android:paddingRight="10dp"
-                android:text="@string/q5c"
+                android:text="@string/b9c"
 
                 />
 
@@ -956,7 +956,7 @@
                 android:background="@drawable/back5"
                 android:paddingLeft="10dp"
                 android:paddingRight="10dp"
-                android:text="@string/q5d"
+                android:text="@string/b9d"
 
                 />
 
@@ -999,7 +999,7 @@
                     android:layout_width="wrap_content"
                     android:layout_height="wrap_content"
                     android:layout_marginLeft="10dp"
-                    android:text="@string/q5"
+                    android:text="@string/b10"
                     android:textColor="#000"
                     android:textSize="25sp" />
 
@@ -1017,7 +1017,7 @@
                 android:paddingLeft="10dp"
                 android:paddingRight="10dp"
 
-                android:text="@string/q5a" />
+                android:text="@string/b10a" />
 
             <Button
                 android:id="@+id/b10b"
@@ -1031,7 +1031,7 @@
                 android:background="@drawable/back5"
                 android:paddingLeft="10dp"
                 android:paddingRight="10dp"
-                android:text="@string/q5b"
+                android:text="@string/b10b"
 
                 />
 
@@ -1046,7 +1046,7 @@
                 android:background="@drawable/back5"
                 android:paddingLeft="10dp"
                 android:paddingRight="10dp"
-                android:text="@string/q5c"
+                android:text="@string/b10c"
 
                 />
 
@@ -1061,7 +1061,7 @@
                 android:background="@drawable/back5"
                 android:paddingLeft="10dp"
                 android:paddingRight="10dp"
-                android:text="@string/q5d"
+                android:text="@string/b10d"
 
                 />
 
@@ -1104,7 +1104,7 @@
                     android:layout_width="wrap_content"
                     android:layout_height="wrap_content"
                     android:layout_marginLeft="10dp"
-                    android:text="@string/q5"
+                    android:text="@string/b11"
                     android:textColor="#000"
                     android:textSize="25sp" />
 
@@ -1122,7 +1122,7 @@
                 android:paddingLeft="10dp"
                 android:paddingRight="10dp"
 
-                android:text="@string/q5a" />
+                android:text="@string/b11a" />
 
             <Button
                 android:id="@+id/b11b"
@@ -1136,7 +1136,7 @@
                 android:background="@drawable/back5"
                 android:paddingLeft="10dp"
                 android:paddingRight="10dp"
-                android:text="@string/q5b"
+                android:text="@string/b11b"
 
                 />
 
@@ -1151,7 +1151,7 @@
                 android:background="@drawable/back5"
                 android:paddingLeft="10dp"
                 android:paddingRight="10dp"
-                android:text="@string/q5c"
+                android:text="@string/b11c"
 
                 />
 
@@ -1166,7 +1166,7 @@
                 android:background="@drawable/back5"
                 android:paddingLeft="10dp"
                 android:paddingRight="10dp"
-                android:text="@string/q5d"
+                android:text="@string/b11d"
 
                 />
 
@@ -1209,7 +1209,7 @@
                 <TextView
                     android:layout_width="wrap_content"
                     android:layout_height="wrap_content"
-                    android:text="@string/q5"
+                    android:text="@string/b12"
                     android:textSize="25sp"
                     android:layout_marginLeft="10dp"
                     android:textColor="#000"
@@ -1224,7 +1224,7 @@
                 android:layout_marginLeft="39dp"
                 android:layout_width="match_parent"
                 android:layout_height="wrap_content"
-                android:text="@string/q5a"
+                android:text="@string/b12a"
                 android:background="@drawable/back5"
                 android:paddingRight="10dp"
                 android:paddingLeft="10dp"
@@ -1243,7 +1243,7 @@
                 android:layout_marginRight="39dp"
                 android:layout_width="match_parent"
                 android:layout_height="wrap_content"
-                android:text="@string/q5b"
+                android:text="@string/b12b"
 
                 />
             <Button
@@ -1257,7 +1257,7 @@
                 android:layout_marginRight="39dp"
                 android:layout_width="match_parent"
                 android:layout_height="wrap_content"
-                android:text="@string/q5c"
+                android:text="@string/b12c"
 
                 />
 
@@ -1272,7 +1272,7 @@
                 android:layout_marginRight="39dp"
                 android:layout_width="match_parent"
                 android:layout_height="wrap_content"
-                android:text="@string/q5d"
+                android:text="@string/b12d"
 
                 />
             <TextView
@@ -1315,7 +1315,7 @@
                 <TextView
                     android:layout_width="wrap_content"
                     android:layout_height="wrap_content"
-                    android:text="@string/q5"
+                    android:text="@string/b13"
                     android:textSize="25sp"
                     android:layout_marginLeft="10dp"
                     android:textColor="#000"
@@ -1330,7 +1330,7 @@
                 android:layout_marginLeft="39dp"
                 android:layout_width="match_parent"
                 android:layout_height="wrap_content"
-                android:text="@string/q5a"
+                android:text="@string/b13a"
                 android:background="@drawable/back5"
                 android:paddingRight="10dp"
                 android:paddingLeft="10dp"
@@ -1349,7 +1349,7 @@
                 android:layout_marginRight="39dp"
                 android:layout_width="match_parent"
                 android:layout_height="wrap_content"
-                android:text="@string/q5b"
+                android:text="@string/b13b"
 
                 />
             <Button
@@ -1363,7 +1363,7 @@
                 android:layout_marginRight="39dp"
                 android:layout_width="match_parent"
                 android:layout_height="wrap_content"
-                android:text="@string/q5c"
+                android:text="@string/b13c"
 
                 />
 
@@ -1378,7 +1378,7 @@
                 android:layout_marginRight="39dp"
                 android:layout_width="match_parent"
                 android:layout_height="wrap_content"
-                android:text="@string/q5d"
+                android:text="@string/b13d"
 
                 />
             <TextView

@@ -11,16 +11,8 @@
     <string name="q7">નીચેના પૈકી કયો કોષ પોતાનો આકાર બદલી શકે છે ?</string>
     <string name="q8">સંરચનાકીય, આવરિત પટલીય કોથળીઓજેવી રચના કઈ છે ?</string>
 
-    <string name="a1">6g હાઇડ્રોજનનું અધિક ઓક્સિજનની હાજરીમાં દહન થાય છે, તો ઉત્પન્ન થતા પાણીનું દળ ...... </string>
-    <string name="a2">નીચે પૈકી કઈ માહિતી સમતોલિત રાસાયણિક સમીકરણ દ્વારા મળતી નથી ?</string>
-    <string name="a3">સૂકી કસનળીમાં લેડ નાઈટ્રેટના સ્ફટિકને ખૂબજ ગરમ કરતાં ....</string>
-    <string name="a4">Zn ના સળીયાને કોપર નાઈટ્રેટનાં દ્રાવણમાં મૂકી અવલોકન કરતા ...</string>
-    <string name="a5">મંદ HCl ને Zn ના ટુકડા રાખેલી કસનળીમાં ઉમેરતાં ...</string>
-    <string name="a6">અખાધ્યાત્મકતાને અટકાવવા માટે શું કરી શકાય ?</string>
-    <string name="a7">CO2 અને H2O બંને વાયુઓ ...</string>
-    <string name="a8">લાલ – કથ્થાઈ રંગની કોપર ધાતુને ગરમ કરતાં કાળી ઘન સપાટી મળે છે. નીચે પૈકી કયું વિધાન અસત્ય છે ?</string>
-    <string name="a9">સિલ્વર ક્લોરાઈડને ઘેરા રંગની બોટલમાં સંઘરવામાં આવે છે, કારણ કે ...</string>
-    <string name="a10">H2 વાયુની O2 વાયુ સાથેની પ્રક્રિયાથી પાણી પ્રાપ્ત થાય છે, આ પ્રક્રિયા નીચે પૈકી શાનું ઉદાહરણ  છે?</string>
+
+
 
 
   <string name="q1a">રોબર્ટ હૂકે</string>
@@ -67,6 +59,16 @@
     <string name="q8c">રંજકકણ</string>
     <string name="q8d">લાયાસોઝોમ</string>
 
+  <string name="a1">6g હાઇડ્રોજનનું અધિક ઓક્સિજનની હાજરીમાં દહન થાય છે, તો ઉત્પન્ન થતા પાણીનું દળ ...... </string>
+  <string name="a2">નીચે પૈકી કઈ માહિતી સમતોલિત રાસાયણિક સમીકરણ દ્વારા મળતી નથી ?</string>
+  <string name="a3">સૂકી કસનળીમાં લેડ નાઈટ્રેટના સ્ફટિકને ખૂબજ ગરમ કરતાં ....</string>
+  <string name="a4">Zn ના સળીયાને કોપર નાઈટ્રેટનાં દ્રાવણમાં મૂકી અવલોકન કરતા ...</string>
+  <string name="a5">મંદ HCl ને Zn ના ટુકડા રાખેલી કસનળીમાં ઉમેરતાં ...</string>
+  <string name="a6">અખાધ્યાત્મકતાને અટકાવવા માટે શું કરી શકાય ?</string>
+  <string name="a7">CO2 અને H2O બંને વાયુઓ ...</string>
+  <string name="a8">લાલ – કથ્થાઈ રંગની કોપર ધાતુને ગરમ કરતાં કાળી ઘન સપાટી મળે છે. નીચે પૈકી કયું વિધાન અસત્ય છે ?</string>
+  <string name="a9">સિલ્વર ક્લોરાઈડને ઘેરા રંગની બોટલમાં સંઘરવામાં આવે છે, કારણ કે ...</string>
+  <string name="a10">H2 વાયુની O2 વાયુ સાથેની પ્રક્રિયાથી પાણી પ્રાપ્ત થાય છે, આ પ્રક્રિયા નીચે પૈકી શાનું ઉદાહરણ  છે?</string>
 
   <string name="a1a">54g</string>
     <string name="a1b"> 108g</string>
@@ -125,6 +127,94 @@
     <string name="a10b">રેડોક્ષ પ્રક્રિયા	</string>
     <string name="a10c">ઉષ્માક્ષેપક પ્રક્રિયા </string>
     <string name="a10d"> આપેલી બધીજ પ્રક્રિયાઓ.</string>
+
+  <string name="b1">નીવસનતંત્રની જાળવણીમાં ઉત્પાદકોમાં કઈ ક્રિયા મહત્વની છે ?</string>
+  <string name="b2">ઉત્પાદકો અને ઉપભોગીના પોષક સ્તરમાંથી ખોરાક મેળવતાં પ્રાણીઓને શું કહે છે ?</string>
+  <string name="b3">ઉંદર કયા પ્રકારનું ઉપભોગી પ્રાણી છે ?</string>
+  <string name="b4">નીચેના પૈકી કઈ સમસ્યા માનવસર્જિત ફેરફારનું પરિણામ છે ?</string>
+  <string name="b5">આહારશ્રુંખલામાં તૃતીય પોષક સ્તરે હંમેશા કયાં પ્રાણીઓ ગોઠવાયેલાં છે ?</string>
+  <string name="b6">નીચેનામાંથી જૈવિક રીતે વિઘટન પામતા કચરાનું ઉદાહરણ કયું છે ?</string>
+  <string name="b7">નીચેનામાંથી જૈવિક રીતે વિઘટન ન પામતા કચરાનું ઉદાહરણ કયું છે ?</string>
+  <string name="b8">આહારશ્રુંખલામાં હાનિકારક રસાયણના પ્રવેશથી શું સર્જાય છે ?</string>
+  <string name="b9">અસ્તિત્વ માટે સજીવો પરસ્પર એકબીજા પર આધારિત રહી શું સર્જે છે ?</string>
+  <string name="b10">આહારશ્રુંખલામાં સૌર-ઉર્જાના રૂપાંતરથી કાર્બોદિતનું સંશ્લેષણ કરતા સજીવો કયા નામથી ઓળખાય છે ?</string>
+  <string name="b11">એક આહારશ્રુંખલામાં દેડકો, સાપ, ઘાસ અને તીડ જેવા વિવિધ સજીવો સંકળાયેલા છે. તેમાં ત્રીજા પોષક સ્તરે કયો સજીવ હશે ?</string>
+  <string name="b12">નિવસનતંત્રના કયા પોષક સ્તરે સૌથી ઓછી ઉર્જા પ્રાપ્ત હોય છે ?</string>
+  <string name="b13">નિવસનતંત્રના કયા પોષક સ્તરે સૌથી વધારે ઉર્જા પ્રાપ્ત હોય છે ?</string>
+
+  <string name="b1a">જૈવિક વિશાલન</string>
+  <string name="b1b"> પ્રકાશસંશ્લેષણ</string>
+  <string name="b1c">શ્વસન</string>
+  <string name="b1d">પાણીનું શોષણ</string>
+
+  <string name="b2a">તૃણાહારી	</string>
+  <string name="b2b">માંસાહારી</string>
+  <string name="b2c">સર્વાહારી</string>
+  <string name="b2d"> વિઘટકો</string>
+
+  <string name="b3a">તૃણાહારી</string>
+  <string name="b3b">માંસાહારી</string>
+  <string name="b3c">સર્વાહારી</string>
+  <string name="b3d"> વિઘટક</string>
+
+
+  <string name="b4a">વનકટાઈને પરિણામે તૂટતી આહારશ્રુંખલા</string>
+  <string name="b4b">વૈશ્વિક તાપમાનમાં વધારો</string>
+  <string name="b4c">ઓઝોન સ્તરમાં ઘટાડો </string>
+  <string name="b4d"> આપેલ તમામ</string>
+
+  <string name="b5a">તૃણાહારી</string>
+  <string name="b5b">માંસાહારી</string>
+  <string name="b5c">ઉત્પાદક</string>
+  <string name="b5d">વિઘટક </string>
+
+  <string name="b6a"> શાકભાજી</string>
+  <string name="b6b"> કાચ</string>
+  <string name="b6c">પ્લાસ્ટિક</string>
+  <string name="b6d">ધાતુ </string>
+
+  <string name="b7a"> શાકભાજી	</string>
+  <string name="b7b">ફળો</string>
+  <string name="b7c">કાગળ</string>
+  <string name="b7d"> પોલિથીન</string>
+
+  <string name="b8a">જૈવસંતુલન</string>
+  <string name="b8b">સુપોષકતાકરણ	</string>
+  <string name="b8c">જૈવિક વિશાલન</string>
+  <string name="b8d"> જૈવિક નિયમન</string>
+
+
+  <string name="b9a">જીવાવરણ	</string>
+  <string name="b9b">આહારશ્રુંખલા</string>
+  <string name="b9c">નિવસનતંત્ર</string>
+  <string name="b9d">પર્યાવરણ </string>
+
+
+
+  <string name="b10a"> પ્રાથમિક ઉત્પાદકો </string>
+  <string name="b10b">	 પ્રાથમિક ઉપભોગીઓ</string>
+  <string name="b10c">પ્રાથમિક માંસાહારી </string>
+  <string name="b10d"> પ્રાથમિક વિઘટકો</string>
+
+
+  <string name="b11a">દેડકો</string>
+  <string name="b11b">સાપ	</string>
+  <string name="b11c">ઘાસ</string>
+  <string name="b11d">તીડ </string>
+
+
+  <string name="b12a">ઉત્પાદક	</string>
+  <string name="b12b">તૃણાહારી</string>
+  <string name="b12c">પ્રાથમિક માંસાહારી</string>
+  <string name="b12d">ઉચ્ચ માંસાહારી </string>
+
+
+  <string name="b13a">ઉત્પાદક </string>
+  <string name="b13b">તૃણાહારી	</string>
+  <string name="b13c">પ્રાથમિક માંસાહારી </string>
+  <string name="b13d">ઉચ્ચ માંસાહારી </string>
+
+
 
 
 </resources>

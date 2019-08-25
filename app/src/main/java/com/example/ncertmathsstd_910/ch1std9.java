@@ -531,9 +531,6 @@ public class ch1std9 extends AppCompatActivity {
                 b8d.setBackgroundColor(getColor(R.color.tru));
 
 
-                b1a.setTextColor(getColor(R.color.fals));
-
-
                 b8=1;
 
 
