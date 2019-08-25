@@ -35,7 +35,6 @@
         android:id="@+id/ch1"
         android:layout_width="match_parent"
         android:layout_height="wrap_content"
-        android:text="પ્રકરણ ૧. સજીવનો પાયાનો એકમ"
         android:background="@drawable/back"
         android:textColor="#761E8D"
         android:textSize="25sp"
@@ -82,11 +81,12 @@
         android:layout_marginTop="20dp"
         />
     <Button
+        android:id="@+id/ch5"
 
         android:layout_width="match_parent"
         android:layout_height="wrap_content"
         android:background="@drawable/back"
-        android:text="ch-5"
+        android:text="પ્રકરણ ૫. સજીવનો પાયાનો એકમ"
         android:textColor="#761E8D"
         android:textSize="25sp"
         android:layout_marginRight="10dp"

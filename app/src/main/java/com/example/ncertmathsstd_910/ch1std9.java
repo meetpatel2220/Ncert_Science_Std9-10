@@ -32,7 +32,7 @@ public class ch1std9 extends AppCompatActivity {
     @Override
     protected void onCreate(Bundle savedInstanceState) {
         super.onCreate(savedInstanceState);
-        setContentView(R.layout.activity_ch1std9);
+        setContentView(R.layout.activity_ch5std9);
 
 
         b1a=findViewById(R.id.b1a);
@@ -529,6 +529,11 @@ public class ch1std9 extends AppCompatActivity {
                 b8b.setBackground(getDrawable(R.drawable.back5));
                 b8c.setBackgroundColor(getColor(R.color.fals));
                 b8d.setBackgroundColor(getColor(R.color.tru));
+
+
+                b1a.setTextColor(getColor(R.color.fals));
+
+
                 b8=1;
 
 

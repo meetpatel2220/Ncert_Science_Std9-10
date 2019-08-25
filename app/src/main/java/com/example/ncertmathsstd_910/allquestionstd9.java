@@ -9,15 +9,15 @@ import android.widget.Button;
 
 public class allquestionstd9 extends AppCompatActivity {
 
-    Button ch1;
+    Button ch5;
     @Override
     protected void onCreate(Bundle savedInstanceState) {
         super.onCreate(savedInstanceState);
         setContentView(R.layout.activity_allquestionstd9);
 
-        ch1=findViewById(R.id.ch1);
+        ch5=findViewById(R.id.ch5);
 
-        ch1.setOnClickListener(new View.OnClickListener() {
+        ch5.setOnClickListener(new View.OnClickListener() {
             @Override
             public void onClick(View view) {
 
